@@ -1,5 +1,7 @@
 # Premier-League
 
+Please check Screenshots folder for screenshots of the application running.
+
 JavaFX application with a MySQL database.
 Users can add teams to the league as well as remove them.
 Players can be added, removed and the number of goals each player scored can be updated.
